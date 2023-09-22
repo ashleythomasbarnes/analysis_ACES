@@ -44,7 +44,7 @@ def get_region(l, b, w, h, frame='galactic'):
     return(region)
 
 # Get a list of all .fits files in the 'data' directory
-files = glob('regrid/*.fits')
+files = glob('/Users/abarnes/Dropbox/work/Smallprojects/aces/data/misc/raw/regrid/*.fits')
 files.sort()
 
 # os.system('rm -rf regrid_crop/*')

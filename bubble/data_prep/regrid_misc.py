@@ -74,7 +74,7 @@ def reproject_to_projection(fits_file, output_suffix='regrid', frame='galactic',
 
 
 # Get a list of all .fits files in the 'data' directory
-files = glob('raw/*.fits')
+files = glob('/Users/abarnes/Dropbox/work/Smallprojects/aces/data/misc/raw/*.fits')
 files.sort()
 
 # os.system('rm -rf regrid/*')
