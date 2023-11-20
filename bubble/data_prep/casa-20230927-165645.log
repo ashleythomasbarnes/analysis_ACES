@@ -1,0 +1,17 @@
+2023-09-27 16:56:48	INFO	::casa	
+2023-09-27 16:56:49	INFO	::casa	Python version 3.8.10
+2023-09-27 16:56:49	INFO	::casa	CASA Version CASALITH 6.5.5.21
+2023-09-27 16:56:49	INFO	::casa	
+2023-09-27 16:56:49	INFO	::casa	Found an existing telemetry logfile: /Users/abarnes/.casa/casastats-6.5.5.21-7b080048d6127a54fc-20230925-171253.log
+2023-09-27 16:56:49	INFO	::casa	Telemetry log file: /Users/abarnes/.casa/casastats-6.5.5.21-7b080048d6127a54fc-20230925-171253.log
+2023-09-27 16:56:49	INFO	::casa	Checking telemetry submission interval
+2023-09-27 16:56:49	INFO	::casa	Telemetry submit interval not reached. Not submitting data.
+2023-09-27 16:56:49	INFO	::casa	Next telemetry data submission in: 5 days, 0:16:04.077946
+2023-09-27 16:56:49	INFO	::casa	
+2023-09-27 16:56:49	INFO	::casa	optional configuration file config.py not found, continuing CASA startup without it
+2023-09-27 16:56:49	INFO	::casa	
+2023-09-27 16:56:49	INFO	::casa	Checking Measures tables in data repository sub-directory /Users/abarnes/.casa/data/geodetic
+2023-09-27 16:56:49	INFO	::casa	  IERSeop2000 (version date, last date in table (UTC)): 2023/07/28/15:00, 2023/06/28/00:00:00
+2023-09-27 16:56:49	INFO	::casa	  IERSeop97 (version date, last date in table (UTC)): 2023/07/28/15:00, 2023/06/28/00:00:00
+2023-09-27 16:56:49	INFO	::casa	  IERSpredict (version date, last date in table (UTC)): 2023/08/05/15:00, 2023/11/03/00:00:00
+2023-09-27 16:56:49	INFO	::casa	  TAI_UTC (version date, last date in table (UTC)): 2023/07/09/15:00, 2017/01/01/00:00:00
