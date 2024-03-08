@@ -3,3 +3,4 @@
 *.fits
 .ipynb_checkpoints
 
+/bubble/figures/hcno_chans
